@@ -1,91 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Birk Joonas Tamm EN
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Birk Joonas Tamm
+Electronics student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="dacetylan@tutanota.com">E-mail</a>
+  | <a href="+32 494 49 62 45">Phone Number</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+3rd year student Electronics-ICT at the AP University of Applied Sciences.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Internet of Things, Microcontrollers, FPGA, PCB Design
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Microcontrollers, FPGA, Energy Efficient Design
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2020`
+__Xaveriuscollege Borgerhout, Antwerp__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Human Sciences
 
-- Sizar
+`2020 - present`
+__AP University of Applied Sciences__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Elektronica-ICT, Internet of Things
 
-- Fellow
+## Languages
 
+`Dutch`
+Fluent
+`English`
+Fluent
+`Estonian`
+Fluent
+`French`
+Intermediate
+`Russian`
+Beginner
+`Flemish Sign Language`
+Beginner
 
+## Projects
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+<a href="https://ap-it-gh.github.io/iot-at-kist/#/">Flexible LoRaWAN Sensor Board</a>
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020 - present`
+__JET, Just Eat Takeaway__, Antwerp
 
-- Warden
-- Minted coins
+- Courrier
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2021 - present`
+__Mise En Place__, Antwerp
 
-
+- Kitchen Aid
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2022 -->
 
 
