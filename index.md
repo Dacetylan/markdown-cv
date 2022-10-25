@@ -5,10 +5,7 @@ title: Birk Joonas Tamm EN
 # Birk Joonas Tamm
 Electronics student
 
-<div id="webaddress">
-<a href="dacetylan@tutanota.com">E-mail</a>
-  | <a href="+32 494 49 62 45">Phone Number</a>
-</div>
+dacetylan@tutanota.com | +32 494 49 62 45
 
 
 ## Currently
