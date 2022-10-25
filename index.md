@@ -7,7 +7,7 @@ Electronics student
 
 
 <div id="webaddress">
-<p>dacetylan@tutanota.com | +32 494 49 62 45</p>
+dacetylan@tutanota.com | +32 494 49 62 45
 </div>
 
 ## Currently
