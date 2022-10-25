@@ -38,18 +38,26 @@ __AP University of Applied Sciences__
 ## Languages
 
 `Fluent`
+
+`|`
 Dutch
 
 `|`
 Estonian
 
 `Advanced`
+
+`|`
 English
 
 `Intermediate`
+
+`|`
 French
 
 `Beginner`
+
+`|`
 Russian
 
 `|`
