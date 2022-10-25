@@ -40,14 +40,19 @@ __AP University of Applied Sciences__
 
 `Dutch`
 Fluent
+
 `English`
 Fluent
+
 `Estonian`
 Fluent
+
 `French`
 Intermediate
+
 `Russian`
 Beginner
+
 `Flemish Sign Language`
 Beginner
 
