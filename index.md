@@ -38,20 +38,17 @@ __AP University of Applied Sciences__
 
 ## Languages
 
-Fluent:
+__Fluent__
 - Dutch
 - Estonian
 
-
-Advanced:
+__Advanced__
 - English
 
-
-Intermediate:
+__Intermediate__
 - French
 
-
-Beginner:
+__Beginner__
 - Russian
 - Flemish Sign Language
 
