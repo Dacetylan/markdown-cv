@@ -38,23 +38,16 @@ __AP University of Applied Sciences__
 
 ## Languages
 
-`Dutch`
-Fluent
-
-`English`
-Fluent
-
-`Estonian`
-Fluent
-
-`French`
-Intermediate
-
-`Russian`
-Beginner
-
-`Flemish Sign Language`
-Beginner
+`Fluent`
+Dutch
+Estonian
+`Advanced`
+English
+`Intermediate`
+French
+`Beginner`
+Russian
+Flemish Sign Language
 
 ## Projects
 
