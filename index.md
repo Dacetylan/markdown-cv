@@ -5,8 +5,10 @@ title: Birk Joonas Tamm EN
 # Birk Joonas Tamm
 Electronics student
 
-dacetylan@tutanota.com | +32 494 49 62 45
 
+<div id="webaddress">
+<p>dacetylan@tutanota.com</p> | <p>+32 494 49 62 45</p>
+</div>
 
 ## Currently
 
@@ -35,19 +37,23 @@ __AP University of Applied Sciences__
 
 ## Languages
 
-__Fluent__
-- Dutch
-- Estonian
+`Fluent`
+Dutch
 
-__Advanced__
-- English
+`|`
+Estonian
 
-__Intermediate__
-- French
+`Advanced`
+English
 
-__Beginner__
-- Russian
-- Flemish Sign Language
+`Intermediate`
+French
+
+`Beginner`
+Russian
+
+`|`
+Flemish Sign Language
 
 ## Projects
 
