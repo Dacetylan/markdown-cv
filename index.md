@@ -39,23 +39,21 @@ __AP University of Applied Sciences__
 ## Languages
 
 `Fluent`
-
 Dutch
 
+`Fluent`
 Estonian
 
 `Advanced`
-
 English
 
 `Intermediate`
-
 French
 
 `Beginner`
-
 Russian
 
+`Beginner`
 Flemish Sign Language
 
 ## Projects
