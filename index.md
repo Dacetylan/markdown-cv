@@ -41,7 +41,6 @@ __AP University of Applied Sciences__
 `Fluent`
 
 Dutch
-
 Estonian
 
 `Advanced`
