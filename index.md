@@ -71,15 +71,15 @@ Students from the AI division needed weather data from a weather station. Using 
 ## Other Interests
 __Climbing__
 
--  Indoor/Outdoor
+Indoor/Outdoor
 
 __Void Warranties__
 
--  Void Warranties is a hackerspace situated in Deurne, Antwerp. I like going there to discuss technology with other like minded people.
+Void Warranties is a hackerspace situated in Deurne, Antwerp. I like going there to discuss technology with other like minded people.
 
 __Film__
 
--  I'm quite interested in filmmaking. I have done some work as an extra in a TV show and I have helped on set of two short movies as a production assistant.
+I'm quite interested in filmmaking. I have done some work as an extra in a TV show and I have helped on set of two short movies as a production assistant.
 
 ## Occupation
 
