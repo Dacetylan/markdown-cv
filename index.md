@@ -65,7 +65,7 @@ For an <a href="https://ap-it-gh.github.io/iot-at-kist/#/">international project
 __Home automation__
 
 There was a need to know if our cellar had the right environnement to convert it into a wine cellar. For that I made a sensor that was based on the DHT22 and ESP32. I sent the data from this sensor to a RaspberryPi that was running <a href="https://www.home-assistant.io/">Homeassistant</a>. Later I expanded this by adding another sensor to an indoor greenhouse for my vanilla plant which I brought with me from Zanzibar
-![](./media/IMG_20221031_120207548.jpg)
+
 *Picture of the indoor greenhouse for the vanilla plants and a banana tree*
 
 __Weather Station Hacking__
