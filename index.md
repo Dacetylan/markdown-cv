@@ -56,7 +56,7 @@ __Beginner__
 
 ## Projects
 
-<a href="https://ap-it-gh.github.io/iot-at-kist/#/"><b>Flexible LoRaWAN Sensor Board</b></a> 
+<b><a href="https://ap-it-gh.github.io/iot-at-kist/#/">Flexible LoRaWAN Sensor Board</a></b>
 For an internationl project in Zanzibar I developed an air quality sensor together with 5 other students from AP university of Applied Sciences. The PCB's were designed and produced in Belgium. In Zanzibar we set up a LoRaWAN infrastructure, assembled the PCB's, programmed the microcontrollers on the PCB's and set up a NodeRED backend. I was personally responsible for the programming of the <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/SAM-D21-DA1-Family-Data-Sheet-DS40001882H.pdf">microcontroller</a>. 
 
 __Home automation__
