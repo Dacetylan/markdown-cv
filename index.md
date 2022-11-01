@@ -28,15 +28,11 @@ Microcontrollers, FPGA, Energy Efficient Design
 
 ## Education
 
+
 `2014-2020`
 __Xaveriuscollege Borgerhout, Antwerp__
 
 - Human Sciences
-
-`2020 - present`
-__AP University of Applied Sciences__
-
-- Elektronica-ICT, Internet of Things
 
 ## Languages
 
