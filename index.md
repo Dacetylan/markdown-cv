@@ -28,6 +28,10 @@ Microcontrollers, FPGA, Energy Efficient Design
 
 ## Education
 
+`2020 - present`
+__AP University of Applied Sciences__
+
+- Elektronica-ICT, Internet of Things
 
 `2014-2020`
 __Xaveriuscollege Borgerhout, Antwerp__
