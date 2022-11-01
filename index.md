@@ -59,13 +59,17 @@ __Beginner__
 __Flexible LoRaWAN Sensor Board__
 
 For an <a href="https://ap-it-gh.github.io/iot-at-kist/#/">international project</a> in Zanzibar I developed an air quality sensor together with 5 other students from AP university of Applied Sciences. The PCB's were designed and produced in Belgium. In Zanzibar we set up a LoRaWAN infrastructure, assembled the PCB's, programmed the microcontrollers on the PCB's and set up a NodeRED backend. I was personally responsible for the programming of the <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/SAM-D21-DA1-Family-Data-Sheet-DS40001882H.pdf">microcontroller</a>.
+
 ![](./media/IMG-20220421-WA0003.jpg)
+
 *Helping some students from the Karume Institute of Science and Technology during a workshop around Arduino's*
 
 __Home automation__
 
 There was a need to know if our cellar had the right environnement to convert it into a wine cellar. For that I made a sensor that was based on the DHT22 and ESP32. I sent the data from this sensor to a RaspberryPi that was running <a href="https://www.home-assistant.io/">Homeassistant</a>. Later I expanded this by adding another sensor to an indoor greenhouse for my vanilla plant which I brought with me from Zanzibar
+
 ![](./media/IMG_20221031_120207548_small.jpg)
+
 *Picture of the indoor greenhouse for the vanilla plants and a banana tree*
 
 __Weather Station Hacking__
