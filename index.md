@@ -19,11 +19,11 @@ Python, NodeJS, Angular, JavaScript, TypeScript,
 
 ### Specialized in
 
-Internet of Things, Microcontrollers, FPGA, PCB Design, Linux
+Internet of Things, Microcontrollers, FPGA, PCB Design, Linux, 3D design
 
 ### Research interests
 
-Microcontrollers, FPGA, Energy Efficient Design
+Microcontrollers, FPGA, Energy Efficient Design, 3D design
 
 
 ## Education
