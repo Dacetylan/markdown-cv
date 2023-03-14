@@ -13,9 +13,6 @@ dacetylan@tutanota.com | +32 494 49 62 45
 ## Currently
 
 3rd year student Electronics-ICT at the AP University of Applied Sciences.
-### General Knowledge
-
-Python, NodeJS, Angular, JavaScript, TypeScript,
 
 ### Specialized in
 
@@ -24,6 +21,11 @@ Internet of Things, Microcontrollers, FPGA, PCB Design, Linux, 3D design
 ### Research interests
 
 Microcontrollers, FPGA, Energy Efficient Design, 3D design
+
+### General Knowledge
+
+Python, NodeJS, Angular, JavaScript, TypeScript,
+
 
 
 ## Education
@@ -64,15 +66,15 @@ For an <a href="https://ap-it-gh.github.io/iot-at-kist/#/">international project
 
 *Helping some students from the Karume Institute of Science and Technology during a workshop around Arduino's*
 
-__Home automation__
+__Digitization of an ice cream truck melody__
 
-There was a need to know if our cellar had the right environnement to convert it into a wine cellar. For that I made a sensor that was based on the DHT22 and ESP32. I sent the data from this sensor to a RaspberryPi that was running <a href="https://www.home-assistant.io/">Homeassistant</a>. Later I expanded this by adding another sensor to an indoor greenhouse for my vanilla plant which I brought with me from Zanzibar
+The first project I worked on at Tamm Industries was the digitization of a melody from a "music box" of my local ice cream truck. Digitizing technology from the 70's allowed him to expand his bussiness to more ice cream trucks without relying on old technology.
 
-![](./media/IMG_20221031_120207548_small.jpg)
+![](./media/vlcsnap-2023-03-14-22h38m56s076.png)
 
-*Picture of the indoor greenhouse for the vanilla plants and a banana tree*
+*Digitization of an ice cream truck melody*
 
-__Weather Station Hacking__
+__Weather station hacking__
 
 Students from the AI division needed weather data from a weather station. Using a HackRF One I was able to intercept and decode the data from a weather station so that the students would be able to use that data to make predictions.
 
@@ -90,19 +92,28 @@ __Film__
 I'm quite interested in filmmaking. I have done some work as an extra in a TV show and I have helped on set of two short movies as a production assistant.
 
 ## Occupation
+`March 2023 - present`
+__E. D.& A.__, Kalmthout
 
-`2020 - present`
+- PCB Test & Repair
+
+`December 2022 - present`
+__Tamm Industries OÜ__, Tallinn
+
+- Founding member
+
+`2020 - 2022`
 __JET, Just Eat Takeaway__, Antwerp
 
 - Courier
 
-`2021 - present`
+`2021 - 2022`
 __Mise En Place__, Antwerp
 
 - Kitchen Aid
 
 <!-- ### Footer
 
-Last updated: October 2022 -->
+Last updated: March 2023 -->
 
 
