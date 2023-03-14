@@ -26,6 +26,26 @@ Microcontrollers, FPGA, Energy Efficient Design, 3D design
 
 Python, NodeJS, Angular, JavaScript, TypeScript,
 
+## Occupation
+`March 2023 - present`
+__E. D.& A.__, Kalmthout
+
+- PCB Test & Repair
+
+`December 2022 - present`
+__Tamm Industries OÜ__, Tallinn
+
+- Founding member
+
+`2020 - 2022`
+__JET, Just Eat Takeaway__, Antwerp
+
+- Courier
+
+`2021 - 2022`
+__Mise En Place__, Antwerp
+
+- Kitchen Aid
 
 
 ## Education
@@ -91,26 +111,6 @@ __Film__
 
 I'm quite interested in filmmaking. I have done some work as an extra in a TV show and I have helped on set of two short movies as a production assistant.
 
-## Occupation
-`March 2023 - present`
-__E. D.& A.__, Kalmthout
-
-- PCB Test & Repair
-
-`December 2022 - present`
-__Tamm Industries OÜ__, Tallinn
-
-- Founding member
-
-`2020 - 2022`
-__JET, Just Eat Takeaway__, Antwerp
-
-- Courier
-
-`2021 - 2022`
-__Mise En Place__, Antwerp
-
-- Kitchen Aid
 
 <!-- ### Footer
 
